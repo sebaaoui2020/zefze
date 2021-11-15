@@ -34,15 +34,20 @@
   "GuideContent": [
     {
       "title": "Article 1",
-      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+      "description": "This guide will mainly focus on tips and tricks in different fields ranging from movement to general and other useful information. Disclaimer: This guide may not work as efficiently for other players due to differences in ability or other circumstances
+How to Beat the Game: Alright, so this section will introduce the game and what it is about. Giving beginners an easier time understanding the game, Firstly let’s begin that your objective is to survive and be the last man standing. If you fail to complete challenges, you are eliminated. "
     },
     {
       "title": "Article 2",
-      "description": "Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status."
+      "description": "The game will offer game modes from fighting against the game to fighting other players. In the end, you will have to focus mainly on your survival, not others, In the next section, we will go in-depth about the game modes. What they are, how to win, and some tips and tricks for the game modes.
+First, you need to know is that there are 6 game modes:Tag.Bomb Tag. Hide and Seek. Hat King. Lights Out.Stepping Stones.Color Drive."
+"
     },
     {
       "title": "Article 3",
-      "description": "All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination."
+      "description": "We can begin with Tag since it's one of the most common ones.Tag – There are 2 teams: Runners and Taggers
+A tagger's objective is to tag a runner to become one myself so they don't get eliminated. Taggers have a STICC as a weapon. When a tagger hits a runner they become a runner, taggers are outlined RED. They have to tag someone else before time rounds out
+Runners' objective is to run away from a tagger so they don't get hit by a STICC and become the tagged themselves. Runners must survive until time runs out."
     }
   ]
 }
